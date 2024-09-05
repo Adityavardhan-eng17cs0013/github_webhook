@@ -2,9 +2,4 @@
 
 Test repo<br>
 1 trial<br>
-2 commit from 2nd user.<br>
-3 commit from 2nd user.<br>
-4th commit from 2nd user.<br>
-making 5th pull request.<br>
-this is a push by Rohan<br>
-this is pull by Aditya<br>
+2 commit to check timestamp
